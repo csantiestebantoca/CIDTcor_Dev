@@ -1,1 +1,1 @@
-alert(document.getElementById("p1").firstChild.nodeValue);
+alert(document.getElementById("p2").firstChild.nodeValue);
